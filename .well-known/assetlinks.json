@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.zibongorun.myproject.twa",
+        "sha256_cert_fingerprints": ["89:55:77:72:C2:4F:8B:92:15:28:42:21:93:4E:6D:D2:C7:80:CA:62:FF:FB:12:08:E8:9A:76:AB:6C:6F:11:DE"]
+      }
+    }]
